@@ -4,4 +4,4 @@
 3. Revisar ejecución 
 4. Terminar la clase
 5. Trabajando con github 
-6. Actualización realizada em github
+6. Actualización realizada en github
